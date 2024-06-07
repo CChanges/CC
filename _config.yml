@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Ontop.png"
-  name             : "Your Sidebar Name"
+  name             : "登高望远，<br>引领未来，<br>带来惊喜！"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "On&top 意味着登高望远，追求无限可能与高远境界。"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
