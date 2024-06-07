@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "CC's 个人主页"
+title: "《自嘲》"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,12 +8,21 @@ redirect_from:
 ---
 
 鲁迅的《自嘲》
+
 运交华盖欲何求，
+
 未敢翻身已碰头。
+
 破帽遮颜过闹市，
+
 漏船载酒泛中流。
+
 横眉冷对千夫指，
+
 俯首甘为孺子牛。
+
 躲进小楼成一统，
+
 管他冬夏与春秋。
+
 
