@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ontop / 登高望远"
+title                    : "On&top / 登高望远"
 title_separator          : "-"
-name                     : &name "Ontop"
-description              : &description "personal description"
+name                     : &name "On&top"
+description              : &description "On&top，是一种追求，一种对高远境界的渴望。当我们奋力登高望远，便能将尘世的喧嚣抛于身后，拥抱那澄澈的天空和广袤的大地。在那巅峰之上，心灵得到释放，视野变得宽广，领悟到生命的宏大与深邃。"
 url                      : https://ontop.eu.org # the base hostname & protocol for your site e.g. "https://ontop.eu.org"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
