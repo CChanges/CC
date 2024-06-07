@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-鲁迅的《自嘲》<br>
+鲁迅的《自嘲》<br><br>
 运交华盖欲何求，<br>
 未敢翻身已碰头。<br>
 破帽遮颜过闹市，<br>
